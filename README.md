@@ -1,6 +1,6 @@
 # pdf2context
 
-<a href="https://www.buymeacoffee.com/TWwJh0e"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=TWwJh0e&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/TWwJh0e"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /></a>
 
 A production-quality CLI tool that converts directories of PDF files into
 chunked JSONL context files suitable for use with large language models and
