@@ -1,7 +1,5 @@
 # pdf2context
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="TWwJh0e" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-
 A production-quality CLI tool that converts directories of PDF files into
 chunked JSONL context files suitable for use with large language models and
 retrieval-augmented generation (RAG) pipelines.
